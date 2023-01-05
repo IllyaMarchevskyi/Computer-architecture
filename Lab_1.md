@@ -1,8 +1,12 @@
 
 Electronics Workbench Circuit File
+
 Version: 5
+
 Charset: ANSI
+
 Description: 
+
 "" 
 
 EncryptionType: 2
